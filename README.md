@@ -1,2 +1,2 @@
 # ts-config
-configuration files
+This package contains the configuration files for the TITUS releases.
